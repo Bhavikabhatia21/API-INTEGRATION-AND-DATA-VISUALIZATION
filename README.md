@@ -108,4 +108,4 @@ The project is structured in a simple and understandable way, making it suitable
 ## OUTPUT
 
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a9a400e9-187a-4f9d-8fda-5f285e297d70" />
+<img width="1913" height="1023" alt="Image" src="https://github.com/user-attachments/assets/253c534e-3e1c-4fe8-a8b5-85ff874af986" />
