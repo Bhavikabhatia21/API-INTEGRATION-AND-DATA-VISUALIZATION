@@ -104,3 +104,8 @@ pip install requests matplotlib
 This project demonstrates how real-time data can be integrated into a Python application and visually analyzed using graphs. It provides practical exposure to API usage, data processing, and visualization techniques. 
 
 The project is structured in a simple and understandable way, making it suitable for beginners while still covering important programming concepts. By completing this project, I gained hands-on experience in working with APIs, processing dynamic data, implementing logic to find maximum values, and presenting results visually in a meaningful way.
+
+## OUTPUT
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a9a400e9-187a-4f9d-8fda-5f285e297d70" />
