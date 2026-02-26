@@ -93,7 +93,7 @@ The main objectives of this project are:
 
 Install required libraries:
 ```
-pip install requests matplotlib
+pip install Requests, Matplotlib
 ```
 
 - Run the Python file.
